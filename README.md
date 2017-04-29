@@ -1,0 +1,2 @@
+# diamondOperator
+diamond operator example
