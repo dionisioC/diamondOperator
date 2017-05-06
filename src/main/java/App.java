@@ -22,7 +22,7 @@ public class App {
         genericMehodClass.printElement(5);
 
         //Java 7 warning
-        List<String> java7NonDiamonList = new ArrayList();
+        List<String> java7NonDiamondList = new ArrayList();
 
         java7List.add("Hola");
         // Errpr
